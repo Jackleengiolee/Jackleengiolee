@@ -1,9 +1,8 @@
 # Hi, I'm Giovanna Mezzapelle 👋
 
-## About Me Mezzapell
-# Hi, I'm Giovanna Mezzapelle 👋
+## About Me Mezzapelle Giovanna
 
-## About Me
+
 
 I am a Data Analyst with practical experience in data analysis, business intelligence, dashboard development and process automation.
 
