@@ -1,57 +1,72 @@
 # Hi, I'm Giovanna Mezzapelle 👋
 
+## About Me Mezzapell
+# Hi, I'm Giovanna Mezzapelle 👋
+
 ## About Me
 
-I am currently completing the Google Data Analytics Professional Certificate.
+I am a Data Analyst with practical experience in data analysis, business intelligence, dashboard development and process automation.
 
-I have completed certifications and specializations in:
+I have completed training and specializations in:
 
+- Data Analytics
 - Artificial Intelligence (AI)
 - Google AI Fundamentals
-- Power BI
-- Power Automate
-
-I am developing practical skills in:
-
+- Microsoft Power BI
+- Microsoft Power Automate
 - Microsoft Excel
 - SQL
+- Business Intelligence
+
+I am currently studying Microsoft Business Analyst and expanding my expertise in business process analysis and data\-driven decision making.
+
+## Core Skills
+
+- Data Analysis
+- Business Analysis
 - Power BI
 - Power Automate
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-- Business Intelligence
-- Artificial Intelligence
+- Excel Advanced
+- SQL
+- Dashboard Development
+- KPI Monitoring
 - Process Automation
+- Data Visualization
+- Business Intelligence
+- Artificial Intelligence Fundamentals
 
 ## Current Goals
 
-- Complete the Google Data Analytics Professional Certificate
-- Build a professional data analytics portfolio
-- Develop business intelligence and automation projects
-- Publish projects on GitHub and Kaggle
-- Continue learning AI, Power BI and Power Automate
+- Complete Microsoft Business Analyst training
+- Build advanced Business Intelligence projects
+- Expand my GitHub portfolio
+- Develop Power Platform solutions
+- Apply analytics and automation to logistics and business operations
 
-## Featured Projects
+## Featured Project
 
 ### Monitoraggio Resi e Logistica 2026
 
-Dashboard and logistics returns analysis project developed using Microsoft Excel, SQL and Google BigQuery.
+Dashboard and logistics returns analysis project including KPI monitoring, Excel analytics and Power Automate workflow automation.
 
 ## Tools & Technologies
 
 - Microsoft Excel
+- Microsoft Power BI
+- Microsoft Power Automate
 - SQL
-- Google BigQuery
-- Power BI
-- Power Automate
 - GitHub
 - Artificial Intelligence
-- Data Analytics
+- Business Analysis
 
 ## Connect With Me
 
-- GitHub: [https://github.com/Jackleengiolee](https://github.com/Jackleengiolee)
+GitHub: [https://github.com/Jackleengiolee](https://github.com/Jackleengiolee)
 
-Thank you for visiting my profile\!
+
+
+
+
+
+
 
